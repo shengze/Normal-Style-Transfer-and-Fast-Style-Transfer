@@ -13,7 +13,7 @@ import time
 import vgg16
 import vgg16_fastNeural
 
-#vgg16.maybe_download()
+vgg16.maybe_download()
 
 def load_image(filename, max_size=None):
     image = PIL.Image.open(filename)
