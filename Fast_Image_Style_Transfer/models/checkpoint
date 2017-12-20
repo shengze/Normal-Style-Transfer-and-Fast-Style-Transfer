@@ -1,0 +1,2 @@
+model_checkpoint_path: "starsky_final.ckpt"
+all_model_checkpoint_paths: "starsky_final.ckpt"
